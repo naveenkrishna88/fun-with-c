@@ -1,7 +1,4 @@
--/*Naveen Krishna S --- 1840283
-Ria Rastogi --- 1840234
-K Nidhi Sharma --- 1840257
-Kaviya G --- 1840284*/
+/*Naveen Krishna S */
 //declaration of header files
 #include<stdio.h>
 #include<stdlib.h>
