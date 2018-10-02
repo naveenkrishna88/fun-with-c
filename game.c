@@ -391,9 +391,8 @@ main()
 					for(i=0;i<strlen(rules1);i++)
 					{
 						printf("%c",rules1[i]);
-					//	usleep(150000);
+						usleep(150000);
 					}
-					sleep(2);
 				}
 				for(playerorder=0;(playerorder<9)&&(result!=1);playerorder++)
 				{
@@ -427,9 +426,8 @@ main()
 					for(i=0;i<strlen(rules2);i++)
 					{
 						printf("%c",rules2[i]);
-					//	usleep(150000);
+						usleep(150000);
 					}
-					sleep(2);
 				}
 				game2=1;
 				system("CLS");
